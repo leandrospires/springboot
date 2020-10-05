@@ -1,7 +1,5 @@
 package com.example.websocketdemo.model;
 
-import java.awt.TrayIcon.MessageType;
-
 public class ChatMessage {
 	
 	private MessageType type;
